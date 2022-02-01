@@ -1,0 +1,4 @@
+Date,CustomerID,ItemID,TransactionType,Price,QOS,TotalSales,CreditPeriod
+
+13/10/2020,101,101,RET,10,10,100,1
+15/10/2020,102,101,WHS,9,10,90,0

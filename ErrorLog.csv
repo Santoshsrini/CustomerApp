@@ -1,0 +1,6 @@
+CustomerID,Date,ErrorList
+101,12/10/2020,ItemID doesn't exist,CreditPeriod error
+102,12/10/2020,CreditPeriod error
+
+102,16/10/2020,CreditPeriod error
+102,15/10/2020,CreditPeriod error
